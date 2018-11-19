@@ -1,2 +1,2 @@
-# sprinb-boot-sample
+# spring-boot-sample
 Sample project with Spring boot
